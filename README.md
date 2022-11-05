@@ -10,29 +10,29 @@
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/ALEXIS_RXT_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/armando_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/KW8t7A6LQfw2K5BFh0ZFid)  <a href="https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 [![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/FLRXWxEoS5nCn2yZxgPgVS)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 ---------
 > GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/573122695406" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/en desarrollo" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="http://wa.me/5493534267295" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="http://wa.me/51998364160" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.3️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/en desarrollo" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.3️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
@@ -48,18 +48,18 @@
   
 ### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
-> [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta dorrat-inicio.js y ponle index.js
+[![Run on Repl.it](https://repl.it/https://github.com/Alexis-RXT)](https://repl.it/)
+> [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta Alex-inicio.js y ponle index.js
 > Es obligatorio o no funcionará en replit
 
 ### `—◉ 🔮 ACTIVAR EN HEROKU 🔮`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIEGO-OFC/DORRAT-BOT-MD)
 
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Alexis-RXT/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
 
-### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+### <img src="https://github.com/Alexis-RXT/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > cd
@@ -71,8 +71,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/Alexis-RXT/Alex-bot-TEXMUX
+> cd Alex-bot-TERMUX
 > yarn install 
 > npm install
 > npm update
@@ -83,7 +83,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd Alex-bot-TERMUX 
 > npm start
 ```
 
@@ -93,8 +93,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
-> rm -rf DORRATSESSION 
+> cd Alex-bot-TERMUX 
+> rm -rf ALEXSESSION 
 > npm start
 ```
 
@@ -112,6 +112,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/Alexis-RXT"><img src="https://github.com/Alexis-RXT" width="300" height="300" alt="DIEGO-OFC"/></a>
 
-> The Dorr∆t-bot _ By DIEGO OFC
+> ∆lex-bot _ By Alexis RXT
