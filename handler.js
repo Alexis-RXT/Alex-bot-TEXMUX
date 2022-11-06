@@ -1222,7 +1222,7 @@ if (!isPrems && plugin.dorracoins && global.db.data.users[m.sender].dorracoins <
                     if (m.limit)
                         m.reply(+m.limit + ' 𝘿𝙄𝘼𝙈𝘼𝙉𝙏𝙀(𝙎) 💎 𝙐𝙎𝘼𝘿𝙊(𝙎)')
                  if (m.dorracoins)
-                        m.reply(+m.dorracoins + ' 𝘿𝙊𝙍𝙍𝘼𝙏𝘾𝙊𝙄𝙉𝙎 🪙 𝙐𝙎𝘼𝘿𝙊(𝙎)')
+                        m.reply(+m.dorracoins + ' 𝘼𝙇𝙀𝙓𝘾𝙊𝙄𝙉𝙎 🪙 𝙐𝙎𝘼𝘿𝙊(𝙎)')
               
                 }
                 break
