@@ -1158,7 +1158,7 @@ export async function handler(chatUpdate) {
                     continue // Limit habis
                 }
 if (!isPrems && plugin.dorracoins && global.db.data.users[m.sender].dorracoins < plugin.dorracoins * 1) {
-                    this.reply(m.chat, `${ag}\n𝙉𝙊 𝙏𝙄𝙀𝙉𝙀 𝘿𝙊𝙍𝙍𝘼𝙏𝘾𝙊𝙄𝙉𝙎 🪙`, m)
+                    this.reply(m.chat, `${ag}\n𝙉𝙊 𝙏𝙄𝙀𝙉𝙀 𝘼𝙇𝙀𝙓𝘾𝙊𝙄𝙉𝙎 🪙`, m)
                     continue // Limit habis
 
 }
@@ -1193,7 +1193,7 @@ if (!isPrems && plugin.dorracoins && global.db.data.users[m.sender].dorracoins <
                     await plugin.call(this, m, extra)
                     if (!isPrems)
                         m.limit = m.limit || plugin.limit || false
-                        m.dorracoins = m.dorracoins || plugin.dorracoins || false
+                        m.alexcoins = m.alexcoins || plugin.alexcoins || false
                 } catch (e) {
                     // Error occured
                     m.error = e
